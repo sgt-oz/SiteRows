@@ -1,6 +1,4 @@
 """
-First SiteRows API example.
-
 Quick start:
   1. Go to https://siterows.com and create your FREE account, which will give you the API token.
   2. Clone this repo and add the API token to a `.env` file (see `.env.example`).
@@ -10,9 +8,9 @@ Quick start:
 
 import json
 import os
-
 import requests
 from dotenv import load_dotenv
+
 load_dotenv()
 
 payload = {
