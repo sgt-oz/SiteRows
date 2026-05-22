@@ -1,5 +1,7 @@
 """
 Quick start:
+  This example calls the `POST /Scrape` endpoint and prints the JSON response.
+
   1. Go to https://siterows.com and create your FREE account, which will give you the API token.
   2. Clone this repo and add the API token to a `.env` file (see `.env.example`).
   3. In the repo root folder run: pip install -r requirements.txt
