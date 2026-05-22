@@ -16,7 +16,7 @@ Please feel free to visit [SiteRows](https://siterows.com) and let me know what 
 
 ## Quick start
 
-1. Go to SiteeRows and create you FREE account, which will give you an API token
+1. Go to [SiteRows](https://siterows.com) and create you FREE account, which will give you an API token
 2. Clone this repo and add the API token to an .env file
 3. In root folder run: pip install -r requirements.txt
 4. In root folder run: python examples/20260522_first_api_example.py
